@@ -4,11 +4,11 @@ const test = QUnit.test;
 test('all right answers is 5', function(assert) {
     //Arrange
     // Set up your parameters and expectations
-    const roosterAnswer = 'Zach';
-    const leatherAnswer = '2';
-    const phoenixAnswer = 'Carlos';
-    const rockyAnswer = 'Caleb';
-    const trickAnswer = 'NOBODY';
+    const roosterAnswer = 'skiing';
+    const leatherAnswer = 'writing';
+    const phoenixAnswer = 'music';
+    const rockyAnswer = 'basketball';
+    const trickAnswer = 'soccer';
     const expected = 5;
 
     //Act 
